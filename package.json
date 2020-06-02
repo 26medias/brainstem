@@ -1,0 +1,25 @@
+{
+  "name": "brainstem",
+  "version": "1.0.0",
+  "description": "Artificial Central Nervous System, an attempt at a simple General Intelligence framework",
+  "main": "brain/brain.js",
+  "scripts": {
+    "start": "node brain/brain.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/26medias/brainstem.git"
+  },
+  "author": "Julien Loutre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/26medias/brainstem/issues"
+  },
+  "homepage": "https://github.com/26medias/brainstem#readme",
+  "dependencies": {
+    "fs-tool": "0.0.14",
+    "pstack": "^0.1.5",
+    "request": "^2.88.2",
+    "underscore": "^1.10.2"
+  }
+}
