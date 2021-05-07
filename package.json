@@ -20,6 +20,6 @@
     "fs-tool": "0.0.14",
     "pstack": "^0.1.5",
     "request": "^2.88.2",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
